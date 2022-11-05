@@ -8,4 +8,4 @@ let test = 'Hi, Git!'
 
 console.log(`test`, test);
 
-console.log('Add SSH-key')
+console.log('Add SSH-key!!!')
